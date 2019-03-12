@@ -18,6 +18,8 @@ Try out deep learning models online on Colab with a single click.
   * <a href="https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
 * YOLO demo using [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)
   * <a href="https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/YOLOv3_PyTorch.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
+* Object detection on Youtube videos using [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) (SSD300)
+  * <a href="https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
 
 
 ## Segmentation
