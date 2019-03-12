@@ -13,7 +13,7 @@ Try out deep learning models online on Colab with a single click.
 
 ## Object Detection
 * Tensorflow object detection: FasterRCNN+InceptionResNet and ssd+mobilenet
-  * <a href="https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/dl-colab-notebooks/object_detection.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
+  * <a href="https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
 * Mask RCNN demo using [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
   * <a href="https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
 * YOLO demo using [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)
@@ -32,4 +32,4 @@ Try out deep learning models online on Colab with a single click.
 
 ## GAN
 * BigGAN [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
-  * <a href="https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/dl-colab-notebooks/biggan_generation_with_tf_hub.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
+  * <a href="https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb"> <img src='https://www.tensorflow.org/images/colab_logo_32px.png' align="center" height="18px">&nbsp;&nbsp;run in Colab</a>
