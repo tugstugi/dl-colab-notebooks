@@ -22,9 +22,12 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)  
 * Mask RCNN demo using [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb)
+* Mask RCNN demo using [Detectron](https://github.com/facebookresearch/Detectron)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Detectron_MaskRCNN.ipynb)
 
 
 ## Segmentation
+* For Mask RCNN, see [Object Detection](https://github.com/tugstugi/dl-colab-notebooks#object-detection)
 * Semantic segmentation trained on [ADE20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/) using [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CSAILVision_SemanticSegmentation.ipynb)
 
