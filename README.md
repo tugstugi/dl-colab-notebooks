@@ -53,6 +53,11 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/EAST.ipynb)
 
 
+## Speech Recognition
+* [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) demo notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/MozillaDeepSpeech.ipynb)
+
+
 ## GAN
 * BigGAN [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)  
