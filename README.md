@@ -54,8 +54,10 @@ Try out deep learning models online on Colab with a single click.
 
 
 ## Speech Recognition
-* [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) on Youtube videos 
+* [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/MozillaDeepSpeech.ipynb)
+* Wav2Letter+ from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaWav2LetterPlus.ipynb)
 
 
 ## GAN
