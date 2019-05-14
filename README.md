@@ -8,7 +8,16 @@ Try out deep learning models online on Colab with a single click.
 * A Mongolian male voice demo using [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) with the Griffin-Lim algorithm
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/mongolian-nlp/blob/master/misc/Tacotron_MongolianTTS.ipynb)  
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [tugstugi/pytorch-dc-tts](https://github.com/tugstugi/pytorch-dc-tts) with the Griffin-Lim algorithm
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/pytorch-dc-tts/blob/master/notebooks/EnglishTTS.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/pytorch-dc-tts/blob/master/notebooks/EnglishTTS.ipynb)
+
+
+## Speech Recognition
+* [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) with LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/MozillaDeepSpeech.ipynb)
+* Wav2Letter+ from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaWav2LetterPlus.ipynb)
+* Jasper from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaJasper.ipynb)
 
 
 ## Object Detection
@@ -53,15 +62,9 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/EAST.ipynb)
 
 
-## Speech Recognition
-* [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) with LM on Youtube videos
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/MozillaDeepSpeech.ipynb)
-* Wav2Letter+ from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaWav2LetterPlus.ipynb)
-* Jasper from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaJasper.ipynb)
-
-
 ## GAN
 * BigGAN [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)  
+* [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
+  * deoldify an image [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
+  * deoldify a video [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
