@@ -3,6 +3,7 @@ Try out deep learning models online on Colab with a single click.
 ## TTS
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) and [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidia_Tacotron2_Waveglow.ipynb)
+  * currently broken see: https://github.com/NVIDIA/tacotron2/issues/182
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) and [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/Tacotron2_and_WaveNet_text_to_speech_demo.ipynb)
 * A Mongolian male voice demo using [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) with the Griffin-Lim algorithm
