@@ -9,6 +9,8 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/mongolian-nlp/blob/master/misc/Tacotron_MongolianTTS.ipynb)  
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [tugstugi/pytorch-dc-tts](https://github.com/tugstugi/pytorch-dc-tts) with the Griffin-Lim algorithm
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/pytorch-dc-tts/blob/master/notebooks/EnglishTTS.ipynb)
+* An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) (Tacotron + WaveRNN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/fatchordWaveRNN.ipynb)
 
 
 ## Speech Recognition
