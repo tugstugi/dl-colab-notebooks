@@ -20,6 +20,10 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaWav2LetterPlus.ipynb)
 * Jasper from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaJasper.ipynb)
+* Use an [OCR](https://arxiv.org/abs/1507.05717) network as speech recognition network with/without LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRNNSpeech2Text.ipynb)
+  * 14.6% WER on LibriSpeech dev-clean trained 16 epochs in 15 hours
+  * train code in [tugstugi/mongolian-speech-recognition](https://github.com/tugstugi/mongolian-speech-recognition)
 
 
 ## Object Detection
