@@ -59,6 +59,9 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPose.ipynb)
 * [DensePose](https://github.com/facebookresearch/DensePose) demo notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/DensePose.ipynb)
+* HRNet using [lxy5513/hrnet](https://github.com/lxy5513/hrnet) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/HRNet_lxy5513.ipynb)
+
 
 
 ## Scene Text Detection
