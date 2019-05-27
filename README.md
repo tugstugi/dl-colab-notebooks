@@ -46,7 +46,7 @@ Try out deep learning models online on Colab with a single click.
 * Semantic segmentation trained on [ADE20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/) using [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CSAILVision_SemanticSegmentation.ipynb)
 * [DeepLabV3](https://arxiv.org/abs/1706.05587) from [torchvision 0.3.0](https://pytorch.org/docs/stable/torchvision/index.html)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionDeepLabV3.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionDeepLabV3.ipynb)
 
 
 ## Multi Object Tracking
