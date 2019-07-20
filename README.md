@@ -8,7 +8,22 @@ Try out deep learning models online on Colab with a single click.
 * A Mongolian male voice demo using [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) with the Griffin-Lim algorithm
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/mongolian-nlp/blob/master/misc/Tacotron_MongolianTTS.ipynb)  
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [tugstugi/pytorch-dc-tts](https://github.com/tugstugi/pytorch-dc-tts) with the Griffin-Lim algorithm
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/pytorch-dc-tts/blob/master/notebooks/EnglishTTS.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/pytorch-dc-tts/blob/master/notebooks/EnglishTTS.ipynb)
+* An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) (Tacotron + WaveRNN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/fatchordWaveRNN.ipynb)
+
+
+## Speech Recognition
+* [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) with LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/MozillaDeepSpeech.ipynb)
+* Wav2Letter+ from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaWav2LetterPlus.ipynb)
+* Jasper from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaJasper.ipynb)
+* Use an [OCR](https://arxiv.org/abs/1507.05717) network as speech recognition network with/without LM on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRNNSpeech2Text.ipynb)
+  * 14.6% WER on LibriSpeech dev-clean trained 16 epochs in 15 hours
+  * train code in [tugstugi/mongolian-speech-recognition](https://github.com/tugstugi/mongolian-speech-recognition)
 
 
 ## Object Detection
@@ -22,11 +37,18 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)  
 * Mask RCNN demo using [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb)
+* Mask RCNN demo using [Detectron](https://github.com/facebookresearch/Detectron)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Detectron_MaskRCNN.ipynb)
+* Mask RCNN demo from [torchvision 0.3.0](https://pytorch.org/docs/stable/torchvision/index.html)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionMaskRCNN.ipynb)
 
 
 ## Segmentation
+* For Mask RCNN, see [Object Detection](https://github.com/tugstugi/dl-colab-notebooks#object-detection)
 * Semantic segmentation trained on [ADE20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/) using [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CSAILVision_SemanticSegmentation.ipynb)
+* [DeepLabV3](https://arxiv.org/abs/1706.05587) from [torchvision 0.3.0](https://pytorch.org/docs/stable/torchvision/index.html)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionDeepLabV3.ipynb)
 
 
 ## Multi Object Tracking
@@ -41,6 +63,10 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPose.ipynb)
 * [DensePose](https://github.com/facebookresearch/DensePose) demo notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/DensePose.ipynb)
+* HRNet using [lxy5513/hrnet](https://github.com/lxy5513/hrnet) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/HRNet_lxy5513.ipynb)
+* Keypoint R-CNN from [torchvision 0.3.0](https://pytorch.org/docs/stable/torchvision/index.html)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionPersonKeypoint.ipynb)
 
 
 ## Scene Text Detection
@@ -48,8 +74,19 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/PixelLink.ipynb)
 * Scene text detection using [argman/EAST](https://github.com/argman/EAST)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/EAST.ipynb)
+* Scene text detection using [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
 
 ## GAN
 * BigGAN [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)  
+* [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
+  * deoldify an image [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
+  * deoldify a video [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
+
+
+## Misc
+* Slow motion using [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb)
+* Finetune GPT2 [ak9250/gpt-2-colab](https://github.com/ak9250/gpt-2-colab/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ak9250/gpt-2-colab/blob/master/GPT_2.ipynb)
