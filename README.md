@@ -49,6 +49,8 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CSAILVision_SemanticSegmentation.ipynb)
 * [DeepLabV3](https://arxiv.org/abs/1706.05587) from [torchvision 0.3.0](https://pytorch.org/docs/stable/torchvision/index.html)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionDeepLabV3.ipynb)
+* Fast tracking and segmentation with [SiamMask](https://github.com/foolwood/SiamMask) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SiamMask.ipynb)
 
 
 ## Multi Object Tracking
