@@ -51,6 +51,8 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionDeepLabV3.ipynb)
 * Fast tracking and segmentation with [SiamMask](https://github.com/foolwood/SiamMask) on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SiamMask.ipynb)
+* Real-time semantic segmentation with [LightNet++](https://github.com/ansleliu/LightNetPlusPlus) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LightNetPlusPlus.ipynb)
 
 
 ## Multi Object Tracking
