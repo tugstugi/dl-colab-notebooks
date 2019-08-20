@@ -94,3 +94,4 @@ Try out deep learning models online on Colab with a single click.
 * Slow motion using [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb)
 * Finetune GPT2 [ak9250/gpt-2-colab](https://github.com/ak9250/gpt-2-colab/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ak9250/gpt-2-colab/blob/master/GPT_2.ipynb)
+* Music Source Separation [sigsep/open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ)
