@@ -53,6 +53,8 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SiamMask.ipynb)
 * Real-time semantic segmentation with [LightNet++](https://github.com/ansleliu/LightNetPlusPlus) on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LightNetPlusPlus.ipynb)
+* Real-time instance segmentation with [YOLACT](https://github.com/dbolya/yolact) on Youtube videos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/YOLACT.ipynb)
 
 
 ## Multi Object Tracking
