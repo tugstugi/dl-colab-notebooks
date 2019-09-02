@@ -11,6 +11,8 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/pytorch-dc-tts/blob/master/notebooks/EnglishTTS.ipynb)
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) (Tacotron + WaveRNN)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/fatchordWaveRNN.ipynb)
+* An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [mozilla/TTS](https://github.com/mozilla/TTS) (Tacotron + WaveRNN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Mozilla_TTS_WaveRNN.ipynb)
 
 
 ## Speech Recognition
