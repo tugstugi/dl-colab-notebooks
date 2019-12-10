@@ -21,6 +21,7 @@ Try out deep learning models online on Colab with a single click.
 * Wav2Letter+ from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaWav2LetterPlus.ipynb)
 * Jasper from [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq.git) without LM on Youtube videos
+* QuartzNet from [NVIDIA/Nemo](https://github.com/NVIDIA/NeMo.git) without LM on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaJasper.ipynb)
 * Use an [OCR](https://arxiv.org/abs/1507.05717) network as speech recognition network with/without LM on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRNNSpeech2Text.ipynb)
