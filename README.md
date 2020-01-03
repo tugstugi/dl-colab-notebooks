@@ -72,7 +72,8 @@ Try out deep learning models online on Colab with a single click.
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) on Youtube videos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) on Youtube videos
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPose.ipynb)
+  * v0.2.0: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPose.ipynb)
+  * v0.3.0: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPoseV0_3_0.ipynb)
 * [DensePose](https://github.com/facebookresearch/DensePose) demo notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/DensePose.ipynb)
 * HRNet using [lxy5513/hrnet](https://github.com/lxy5513/hrnet) on Youtube videos
