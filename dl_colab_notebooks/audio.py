@@ -117,6 +117,6 @@ def upload_audio(sample_rate=DEFAULT_SAMPLE_RATE, normalize_db=None):
     if len(fnames) == 0:
         return None
 
-    return audio_bytes_to_np(audio_files[0],
+    return audio_bytes_to_np(audio_files[fnames[0]],
                              sample_rate=sample_rate,
                              normalize_db=normalize_db)
