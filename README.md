@@ -18,6 +18,7 @@ Try out deep learning models online on Colab with a single click.
 * Voice clone demo using [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/RealTimeVoiceCloning.ipynb)
 * Official [ESPnet](https://github.com/espnet/espnet) English/Chinese/Japanese TTS notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/espnet/notebook/blob/master/tts_realtime_demo.ipynb)
+* Official [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) LJSpeech TTS notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/as-ideas/ForwardTacotron/blob/master/notebooks/synthesize.ipynb)
 
 
 ## Speech Recognition
