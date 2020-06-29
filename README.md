@@ -53,7 +53,8 @@ Try out deep learning models online on Colab with a single click.
 * CenterNet (Objects as Points) demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterNet_ObjectsAsPoints.ipynb)
 * CenterNet (Objects as Points) 3D car detection demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterNet_ObjectsAsPoints_3D.ipynb)
+* Official DE⫶TR demo notebook [facebookresearch/detr](https://github.com/facebookresearch/detr)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb)
   * works only on a Kitti image because of camera parameters
 * Official Google [EfficientDet](https://arxiv.org/abs/1911.09070) notebook
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb)
@@ -110,6 +111,7 @@ Try out deep learning models online on Colab with a single click.
   * deoldify a video [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
 * Generates a talking face video from an image and an audio using [Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb)
+* PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ctawong/PULSE_from_image_url/blob/master/PULSE_URL.ipynb)
 
 
 ## Misc
