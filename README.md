@@ -31,6 +31,7 @@ Try out deep learning models online on Colab with a single click.
 * QuartzNet from [NVIDIA/Nemo](https://github.com/NVIDIA/NeMo.git) without LM on Youtube videos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaQuartzNet.ipynb)
 * QuartzNet from [NVIDIA/Nemo](https://github.com/NVIDIA/NeMo.git) without LM with microphone [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaQuartzNetMic.ipynb)
 * Official [ESPnet](https://github.com/espnet/espnet) Spanish->English speech translation notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/espnet/notebook/blob/master/st_demo.ipynb)
+* English/German/Spain speech recognition with [snakers4/silero-models](https://github.com/snakers4/silero-models) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SileroSTT.ipynb)
 
 
 ## Object Detection
