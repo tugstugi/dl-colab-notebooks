@@ -53,7 +53,7 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionMaskRCNN.ipynb)
 * CenterNet (Objects as Points) demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterNet_ObjectsAsPoints.ipynb)
-* CenterNet (Objects as Points) 3D car detection demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
+* CenterNet (Objects as Points) 3D car detection demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterNet_ObjectsAsPoints_3D.ipynb)
   * works only on a Kitti image because of camera parameters
 * Official DE⫶TR demo notebook [facebookresearch/detr](https://github.com/facebookresearch/detr)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb)
