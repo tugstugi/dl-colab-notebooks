@@ -32,7 +32,7 @@ Try out deep learning models online on Colab with a single click.
 * QuartzNet from [NVIDIA/Nemo](https://github.com/NVIDIA/NeMo.git) without LM with microphone [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaQuartzNetMic.ipynb)
 * CitriNet from [NVIDIA/Nemo](https://github.com/NVIDIA/NeMo.git) without LM with microphone [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidiaCitriNetMic.ipynb)
 * Official [ESPnet](https://github.com/espnet/espnet) Spanish->English speech translation notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/espnet/notebook/blob/master/st_demo.ipynb)
-* English/German/Spain speech recognition with [snakers4/silero-models](https://github.com/snakers4/silero-models) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SileroSTT.ipynb)
+* English/German/Spain Silero speech recognition with [snakers4/silero-models](https://github.com/snakers4/silero-models) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb)
 
 
 ## Object Detection
